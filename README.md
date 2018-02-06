@@ -17,6 +17,7 @@ It's recommended to use an icon theme such as [Material Icon theme](https://mark
 
 NOTE: Slight modifications have been made to all syntax themes. Most modifications have been made to improve python support, especially for the Dark+ and OneDark Pro themes.  
 
+If you would like to make your own tweaks to the themes take a look at the [vscode theme Documention](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 ### Special Thanks To
 * [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)

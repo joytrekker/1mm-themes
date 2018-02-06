@@ -1,0 +1,55 @@
+{
+    "name": "1mm-themes",
+    "displayName": "1mm Themes",
+    "description": "Beautiful workbench colors for the popular syntax themes Dark+, Dracula, Monokai and One Dark Pro.",
+    "version": "0.0.1",
+    "publisher": "joytrekker",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "1mm - Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1mm-themes-dracula.json"
+            },
+            {
+                "label": "1mm - Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1mm-themes-monokai.json"
+            },
+            {
+                "label": "1mm - OneDark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1mm-themes-one-dark-pro.json"
+            },
+            {
+                "label": "1mm - Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1mm-themes-dark-plus.json"
+            }
+        ]
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joytrekker/1mm-themes/issues",
+        "email": "dev@joytrekker.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joytrekker/1mm-themes.git"
+    },
+    "homepage": "https://github.com/joytrekker/1mm-themes/blob/master/README.md",
+    "icon": "icon.png",
+    "keywords": [
+        "1mm",
+        "dracula",
+        "dark+",
+        "monokai",
+		"one dark pro"
+	]
+}

@@ -1,5 +1,5 @@
 # 1mm Themes
-Beautiful and consistant workbench colors for the popular syntax themes Dark+, Dracula, Monokai & OneDark Pro. 
+Beautiful and consistant workbench colors for the popular syntax themes Dark+, Dracula, Monokai & One Dark Pro. 
 
 ## Dark+
 ![Screenshot](https://raw.githubusercontent.com/joytrekker/1mm-themes/master/screenshots/1mm-themes-dark-plus.png "1mm - Dark+")

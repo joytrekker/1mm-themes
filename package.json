@@ -45,6 +45,10 @@
     },
     "homepage": "https://github.com/joytrekker/1mm-themes/blob/master/README.md",
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0E0E0E",
+        "theme": "dark"
+    },
     "keywords": [
         "1mm",
         "dracula",
